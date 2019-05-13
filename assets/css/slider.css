@@ -1,0 +1,25 @@
+#slide1{
+	animation: slide01 10s linear infinite;
+}
+
+#slide2{
+	animation: slide02 10s linear infinite;
+}
+
+#slide3{
+	animation: slide03 10s linear infinite;
+}
+
+#slide4{
+	animation: slide04 10s linear infinite;
+}
+
+.content{
+	position:absolute;
+	top:9%;
+	left:6%;
+	background-color:red;
+	width:74%;
+	height:68%;
+	
+}

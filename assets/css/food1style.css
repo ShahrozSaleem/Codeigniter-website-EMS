@@ -1,0 +1,25 @@
+body{
+	margin:0;
+	width:100%;
+	height:100%;
+}
+
+#head{
+	width:100%;
+	height:30%;
+}
+
+#head img{
+	width:100%;
+	height:100%;
+}
+
+#cover{
+	background-image: url("triangle-2724449.png");
+	width:100%;
+	height:100%;
+	margin:0;
+	/* background-color:red; */
+	background-size:cover;
+	background-repeat: no-repeat;
+}

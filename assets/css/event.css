@@ -1,0 +1,127 @@
+
+#event_save{
+	/* .background-color:red; */
+	overflow:hidden;
+}
+
+#event_save table{
+	margin:0px;
+	padding:0px;
+	position:relative;
+	left:0px;
+	top:0px;
+	width:90%;
+	height:90%;
+	margin:5%;
+	/* .background-color:green; */
+	transform:none;
+	color:black;
+}
+
+#event_save button{
+	width:40%;
+	height:60%;
+	padding:1%;
+	background-color:rgba(0,0,0,0.3);
+	color: white;
+	font-family:forte;
+	border-radius:15px;
+	outline:none;
+	margin-top:3%;
+	background-color: rgba(243,129,129,1);
+    font-size: 2.5vw;
+    box-shadow: 0px 1px 10px black;
+    text-shadow: 1px 1px 3px black;
+}
+
+#event_save input,#event_save select{
+	width:80%;
+	height:70%;
+	margin-bottom:3%;
+	font-family:Arial;
+	font-size:20px;
+	background-color:rgba(0,0,0,0.5);
+	border-radius:15px;
+	outline:none;
+	color:white;
+	text-align:center;
+}
+
+#event_save table tr:nth-child(1){
+	background-color: rgba(243,129,129,1);
+	height:100px;
+	color:white;
+}
+
+#event_save table tr:nth-child(2){
+	height:100px;
+}
+
+
+
+
+
+
+
+#invite{
+	background:url(../images/home/invitation.png);
+	background-size:contain;
+	background-repeat:no-repeat;
+	background-position: center;
+	/* .background-size:100% auto;
+	.width:50%;
+	.height:67%;
+	.margin-left:25%;
+	.margin-right:25%;
+	.border:1px solid black; */
+}
+
+#call_people{
+	height:100%;
+	width:100%;
+	z-index:initial;
+	padding-top:5%;
+	/* background:red; */
+	
+}
+
+#chose_user{
+	/* background-color:blue; */
+	width:50%;
+	height:100%;
+	/* .margin-left:25%;
+	.padding-top:3%;
+	.padding-bottom:5%; */
+}
+
+#chose_user input, #chose_user select{
+	/* .width:95%; */
+	margin:2%;
+	height:20%;
+	padding:1%;
+	border-radius: 15px;
+	outline:none;
+	font-family:Arial;
+	font-size:1vw;
+	/* .box-shadow: 0px 1px 10px black;
+    .text-shadow: 1px 1px 3px black; */
+}
+
+#chose_user input[type=submit]{
+	background-color: rgba(243,129,129,1);
+    font-family: firstFont;
+    font-size: 1.7vw;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
